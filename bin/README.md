@@ -15,22 +15,25 @@
 ## Dev Information
 
 - app dimension (w,h): 1540, 892
-- entertainment status:
+- entertainment status: booleans
 
   - 1: seen
-  - 2: not seen
-  - 3: upcoming
-  - 4: released
-  - 5: completed
-  - 6: ongoing
-  - 7: pilot
-  - 8: special
+  - 2: released
+  - 3: completed
+  - 4: pilot
+  - 5: special
 
 ## Dictionary
 
 - Module: the ui containing the data from data file (contains info on a single entertainment)
 - Module Viewer: the ui that contains all the entertainment modules
 - Information Viewer: displays the information from the module
+
+### TODO Implementations
+
+- [ ] the module data viewer was rewritten
+  > using FXML to view Module instead of code
+- [ ] the UI to view the modules was rewritten
 
 ## Version History
 
@@ -56,12 +59,6 @@
 ### Version -1.0.3 (Dec 26, 2024)
 
 - renamed project from "Entertainment Tracker" to "Movie Tracker"
-
-### TODO Implementations
-
-- [ ] the module data viewer was rewritten
-  > using FXML to view Module instead of code
-- [ ] the UI to view the modules was rewritten
 
 ## Features to ADD
 

@@ -1,6 +1,6 @@
 ## Project Information
 
-- Name: Entertainment Tracker
+- Name: Movie Tracker
   - Group: 2
   - Build: 3
   - Major Version: -1
@@ -58,6 +58,10 @@
 - [ ] the module data viewer was rewritten
   > using FXML to view Module instead of code
 - [ ] the UI to view the modules was rewritten
+
+### Version -1.0.2 (Dec 26, 2024)
+
+- renamed project from "Entertainment Tracker" to "Movie Tracker"
 
 ## Features to ADD
 

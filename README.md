@@ -9,8 +9,8 @@
 
 ## Major Version Guide
 
--1 : Alpha Version
-0 : Beta Build
+- -1 : Alpha Version
+- 0 : Beta Build
 
 ## Dev Information
 

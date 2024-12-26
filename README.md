@@ -59,6 +59,10 @@
 ### Version -1.0.3 (Dec 26, 2024)
 
 - renamed project from "Entertainment Tracker" to "Movie Tracker"
+- fixed MainFrame controller from throwing errors making it unable to open the app
+  > the commented code was removed. the initialized method was written and two object classes were switched to make them correct.
+- created Module controller.
+  > error: fxml labels are null
 
 ## Features to ADD
 

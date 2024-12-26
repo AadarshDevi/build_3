@@ -28,9 +28,9 @@
 
 ## Dictionary
 
-> Module: the ui containing the data from data file (contains info on a single entertainment)
-> Module Viewer: the ui that contains all the entertainment modules
-> Information Viewer: displays the information from the module
+- Module: the ui containing the data from data file (contains info on a single entertainment)
+- Module Viewer: the ui that contains all the entertainment modules
+- Information Viewer: displays the information from the module
 
 ## Version History
 

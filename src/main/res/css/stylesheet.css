@@ -1,0 +1,33 @@
+.module_class {
+  -fx-font-family: serif;
+  -fx-font-size: 17px;
+  -fx-background-color: #f4f4f4;
+  /* -fx-background-color: #000000; */
+}
+
+.module_class:hover {
+  -fx-background-color: #c1c1c1;
+  /* -fx-background-color: #222222; */
+}
+
+#module-text {
+  /* -fx-text-fill: rgb(0, 255, 30); */
+  -fx-text-fill: rgb(0, 0, 0);
+}
+
+#information-viewer-franchise-textfield {
+  -fx-opacity: 1;
+}
+
+/* #information-viewer-title-textfield { */
+/* #information-viewer-title-textfield:enable {
+  -fx-opacity: 1;
+}
+
+#information-viewer-title-textfield:enable {
+  -fx-opacity: 0;
+} */
+/* } */
+/* #information-viewer-title-textfield:read-only {
+  -fx-opacity: 1;
+} */

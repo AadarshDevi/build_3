@@ -53,15 +53,15 @@
 - [x] the UI was remade from code to using fxml
 - [x] MainFrame.java was converted from UI code to Controller for MainFrame.fxml
 
+### Version -1.0.2 (Dec 26, 2024)
+
+- renamed project from "Entertainment Tracker" to "Movie Tracker"
+
 ## Continuation (Dec 17, 2024)
 
 - [ ] the module data viewer was rewritten
   > using FXML to view Module instead of code
 - [ ] the UI to view the modules was rewritten
-
-### Version -1.0.2 (Dec 26, 2024)
-
-- renamed project from "Entertainment Tracker" to "Movie Tracker"
 
 ## Features to ADD
 

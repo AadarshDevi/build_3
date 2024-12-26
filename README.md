@@ -5,7 +5,7 @@
   - Build: 3
   - Major Version: -1
   - Minor Version: 0
-  - Patch Version: 0
+  - Patch Version: 3
 
 ## Major Version Guide
 

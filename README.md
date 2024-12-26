@@ -77,7 +77,9 @@
   > server should be able to talk to multiple clients
 
 - [ ] create a database using mysql to replace data.txt
-- [ ] mainframe ui should have tabs to separate modules
-- [ ] mainframe ui should have search box
+- mainframe ui should have
 
-- [ ] text
+  - [ ] tabs to separate modules
+  - [ ] search box
+
+- [ ] text template

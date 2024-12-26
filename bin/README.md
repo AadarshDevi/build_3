@@ -79,7 +79,7 @@
 - [ ] create a database using mysql to replace data.txt
 - mainframe ui should have
 
-  - <s>[ ] tabs to separate modules</s>
+  - [ ] <s>tabs to separate modules</s>
   - [ ] search box
 
 - [ ] text template

@@ -1,11 +1,11 @@
 ## Project Information
 
-> Name: Entertainment Tracker
-> Group: 2
-> Build: 3
-> Major Version: -1
-> Minor Version: 0
-> Patch Version: 0
+- Name: Entertainment Tracker
+  > Group: 2
+  > Build: 3
+  > Major Version: -1
+  > Minor Version: 0
+  > Patch Version: 0
 
 ## Major Version Guide
 

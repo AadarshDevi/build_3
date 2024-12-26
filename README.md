@@ -1,11 +1,11 @@
 ## Project Information
 
 - Name: Entertainment Tracker
-  > Group: 2
-  > Build: 3
-  > Major Version: -1
-  > Minor Version: 0
-  > Patch Version: 0
+  - Group: 2
+  - Build: 3
+  - Major Version: -1
+  - Minor Version: 0
+  - Patch Version: 0
 
 ## Major Version Guide
 
@@ -14,17 +14,17 @@
 
 ## Dev Information
 
-> app dimension (w,h): 1540, 892
-> entertainment status:
+- app dimension (w,h): 1540, 892
+- entertainment status:
 
-    - 1: seen
-    - 2: not seen
-    - 3: upcoming
-    - 4: released
-    - 5: completed
-    - 6: ongoing
-    - 7: pilot
-    - 8: special
+  - 1: seen
+  - 2: not seen
+  - 3: upcoming
+  - 4: released
+  - 5: completed
+  - 6: ongoing
+  - 7: pilot
+  - 8: special
 
 ## Dictionary
 
